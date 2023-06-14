@@ -10,7 +10,7 @@ author: ""
 ---
 
 Jeg skriver til dig på vegne af en gruppe klimaaktivister, der vil skabe et nybrud i en dansk klimakontekst - og vi har brug for strategiske råd.
-Vi er erfarne aktivister, som har læst en lang række bøger om sociale bevægelser og forandring, men vi er overbeviste om, at det vil styrke vores arbejde og kampagnen, hvis vi må høste lidt af din viden!
+Vi er erfarne aktivister, som har læst en lang række bøger om sociale bevægelser og forandring, og samlet meget erfaring gennem eget arbejde, men vi er overbeviste om, at det vil styrke vores arbejde og kampagnen, hvis vi må høste lidt af din viden!
 
 En kort introduktion til os og vores mission:
 Vi er 15 personer i alderen 20-35 år med aktivistiske rødder og erfaringer fra særligt 
