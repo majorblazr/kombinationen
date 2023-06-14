@@ -40,8 +40,8 @@ Vores spørgsmål til dig:
 - Er der nogle typiske fejl, der bliver begået i klimabevægelsen i norden/Skandinavien? 
 - Er der nogle “Dos and Don’ts” for sociale bevægelser i norden/Skandinavien, som vi bør kende?
 
-Vi ville sætte meget stor pris på dit input - uanset hvor omfattende det er! Selvom det ikke er dit præcise forskningsområde, kan dine svar være værdifulde alligevel. Det er i hvert fald heller ikke vores fordśkningsområde:)
+Vi ville sætte meget stor pris på dit input - uanset hvor omfattende det er. Selvom det ikke er dit præcise forskningsområde, kan dine svar være værdifulde alligevel. Det er i hvert fald heller ikke vores forskningsområde. Vi sætter pris på helt konkrete svar.
 
-Giv lyd, hvis du foretrækker, at vi tager en snak over telefonen eller på Zoom fremfor at korrespondere på skrift.
-  
+Vi ville også være taknemmelige, hvis du havde lyst til en uddybende samtale over zoom eller lignende.
+
 Tusind tak for at læse helt herned til - og vi håber, at du vil dele din viden og dine tanker med os.
