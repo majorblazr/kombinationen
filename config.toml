@@ -1,7 +1,7 @@
 baseURL = "https://kombinationen.netlify.app"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Store-O"
+title = "Kombinationen"
 theme = "KeepIt"
 
 paginate = 12
