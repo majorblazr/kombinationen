@@ -3,7 +3,7 @@ title: "København"
 date: 2023-05-30T16:46:56+02:00
 draft: false
 description:
-categories: fem-til-ni
+categories: Politisk-liv
  -
 featured_image:
 author: ""
