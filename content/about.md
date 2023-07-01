@@ -11,10 +11,6 @@ author: ""
 
 Velkommen til
 
-
-
 På denne hjemmeside, vil jeg dele alt hvad jeg har af tips og tricks til livet som engageret i klimakampen i Danmark i 2023. Det er en kombination af strategiske tanker og lavpraktiske tips. En kombination af hjælp til klimakampen og hjælp til alt det andet der også foregår i ens liv.
 
-
-
-Jeg håber, at der er noget af det der kan hjælpe jer, og skriv endelig til mig, hvis der er noget i vil sige [her](mailto:oskarkluge@pm.me)
+Jeg håber, at der er noget af det der kan bidrage meningsfuldt. Og skriv endelig til mig [her](mailto:oskarkluge@pm.me), hvis der er noget i vil sige.
