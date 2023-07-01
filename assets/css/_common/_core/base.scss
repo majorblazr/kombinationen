@@ -9,6 +9,8 @@
 	/* Roboto */
 	@import url(https://fonts.googleapis.com/css?family=Roboto:400,900);
 
+  /* Crimson */
+	/*@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,600);*/
  
   html {
     &::-webkit-scrollbar {
@@ -30,11 +32,11 @@
   }
   
   html {
-    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft Yahei", "WenQuanYi Micro Hei", Arial, Verdana, sans-serif;
+    font-family: "Crimson Text" /*"Roboto"*/, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft Yahei", "WenQuanYi Micro Hei", Arial, Verdana, sans-serif;
   }
   
   body {
-    font-size: 11pt;
+    font-size: 14pt;
     font-weight: 400;
     line-height: 2em;
     background-color: $light-background-color;

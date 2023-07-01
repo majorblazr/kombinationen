@@ -9,8 +9,6 @@ featured_image:
 author: ""
 ---
 
-# Generel utilfredshed
-
 Så snart man begynder på at være politisk aktiv, men egentlig også i resten af ens liv, vil jeg advare mod Generel Utilfredshed. 
 
 Generel Utilfredshed er, når man afskriver en hel gruppe eller en hel aktivitet som værende dårlig eller ikke førende mod målet. 

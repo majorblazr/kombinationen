@@ -9,9 +9,6 @@ featured_image:
 author: ""
 ---
 
-# Grib øjeblikket
-____
-
 I min tid i klimakampen er jeg ofte kommet i helt uvante situationer, som har overrasket mig. Jeg er lidt konfliktsky af natur, og jeg har også oplevet meget planløshed i klimabevægelsen. De ting har betydet, at jeg har fået en tendens til meget målrettet at lave en plan og så holde mig til den plan. Det betyder at jeg nogle gange er gået glip af gode muligheder. Så her vil jeg komme med et argument for at gribe øjeblikket.
 
 Strategien i klimabevægelsen går ofte ud på at rykke den offentlige debat, påvirke beslutningstagere, samle mange mennesker mm. Fordi det altsammen er sociale dynamikker, vil der nogle gange være øjeblikke der skal gribes for at tage et stort skridt videre. Af og til vil der enten på grund af eksterne faktorer som f.eks. en varm sommer eller et folketingsvalg eller interne faktorer som en aktion eller en forhandling eller ofte en kombination af eksterne og interne faktorer være øjeblikke, hvor mulighederne for forandring er meget større, end de plejer at være. Det skal helt generelt udnyttes ved at bevægelser stepper et gear op, og gør hvad de kan, for at komme med deres input i et tidspunkt hvor status quo er udfordret. Det er der massere af eksempler på, og er en hjørnesten i mange succesfulde kampagner. Men jeg vil ikke komme ind på de store træk i dette skriv.
