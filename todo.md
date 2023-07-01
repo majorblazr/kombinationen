@@ -1,6 +1,6 @@
 # TODO
 
-- Skifte fonts
+- Skifte overskrift font
 - Lave baggrunden flot: 
     Farvekoder: 
         --sgbus-green: #00dc00ff;
