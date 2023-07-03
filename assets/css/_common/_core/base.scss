@@ -9,10 +9,19 @@
 	/* Roboto */
 	@import url(https://fonts.googleapis.com/css?family=Roboto:400,900);
 
+  @font-face {
+    font-family: 'Perfect';
+    src: url('/assets/font/Perfect-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
   /* Crimson */
 	/*@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,600);*/
  
   html {
+    
     &::-webkit-scrollbar {
       width: 8px;
       height: 8px;
