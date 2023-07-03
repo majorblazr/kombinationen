@@ -9,6 +9,6 @@
         --sunset: #f6d8aeff;
         --carmine: #9b1d20ff;
 - Opdatere plakatklister-opskriften
-- Categories til dansk
+- Categories og datoer til dansk
 - Ordne kategori-siden
 - Lægge læringer fra mobiliseringen, og mediegruppen op.
