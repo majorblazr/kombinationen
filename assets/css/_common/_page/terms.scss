@@ -35,13 +35,14 @@
     .archive-item-link {
         display: inline-block;
         text-decoration: none;
-        overflow: hidden;
+        /*overflow: hidden;*/
         text-overflow: ellipsis;
         white-space: nowrap;
         max-width: 95%;
         &:hover {
             color: $light-global-link-hover-color;
             background-color: transparent;
+            text-decoration: underline;
         }
 
         .dark-theme & {

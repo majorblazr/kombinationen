@@ -8,7 +8,6 @@
         --sunset: #f6d8aeff;
         --carmine: #9b1d20ff;
 - Opdatere plakatklister-opskriften
-- opdatér og self-host alle skrifttyper
-- Categories og datoer til dansk
-- Ordne kategori-siden med bredden på 
+- opdatér alle skrifttyper tilføj flere formater. problemer på tlf.
+- Categories og datoer til dansk 
 - rette mediegruppe-teksten igennem

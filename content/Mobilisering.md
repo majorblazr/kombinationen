@@ -1,5 +1,5 @@
 ---
-title: "Mobilisering til Befri Jorden"
+title: "Mobilisering Befri Jorden"
 date: 2023-07-02T15:08:08+02:00
 draft: false
 description:
@@ -149,24 +149,24 @@ Vi lærte at det ikke sker automatisk, at folk tager det næste portion ansvar. 
 
 Her vil jeg dele en beskrivelse af Odenses mobiliseringsindsats som jeg fik sendt. Vi skulle i bakspejlet have brugt den her historie mere, til at opmuntre andre til at gøre det samme. Den viser godt, hvordan rugbrødsarbejdet bliver gjort samtidig med at limen bliver smurt, og relationerne dyrket. Big up Odense!
 
-Mobiliseringsplan for XR Odense foråret 2023
-
-Hen over vinteren har vi kun været 4-5 aktivister til vores møder, og da vi gerne ville være flere fra Odense til Befri Jorden end til Vendepunktet, hvor vi var 15, lagde vi en plan.
-
-Vi var tre, der i januar tog til kick off meeting for Befri Jorden i København, så vi kunne dele info med andre fra Odense. Vi inviterede alle dem, vi havde mistet, eller dem, der var på pause, til en fællesmiddag midt i februar. 16 dukkede op, og nu har 12-13 af de 15, der var med til Vendepunktet, meldt sig klar til Befri Jorden! Det var et vigtigt skridt for at sikre kontinuitet i gruppen, bevare bånd og venskaber og sikre et vist antal erfarne rebeller til at hjælpe nye ind i lokalgruppen.
-
-Vi var to, der efter et godt online oplæg fra mobiliseringsgruppen valgte at lave et mobiliseringsteam, ”Team Eskalation”. Vi fik organiseret en introdag 2. april, bestilt lidt plakater og bestilt 5.000 flyers, som vi selv satte vores eget præg på. Vi delte dem ud, og der kom hele 36 til vores introdag, hvoraf cirka 27-28 var helt nye rebeller. Yes!
-
-Jeg var selv ude med 4.200 flyers, hvoraf cirka det halve blev afleveret til folk direkte på universitetet, et gymnasie, centralbiblioteket og nogle mindre steder (banegård, madmarked). Resten blev lagt i postkasser på kollegier i byen (hvor beboerne fik en flyer to gange med cirka 10 dages mellemrum). Vi kan se, at flyers og plakater (dem, der er blevet hængt op på uni) har været det bedste mobiliseringsværktøj. Efter introdag udfyldte 24 personer kontaktark, og vi kan ud fra besvarelser og ud fra, hvor mange nye vi ved, der kommer til næste møde, se, at omkring 13-14 rebeller dukkede op på grund af flyers. Bedste snit har Katedralskolen. Der delte jeg to gange med 10 dages mellemrum 150 flyers ud i spisefrikvarteret 11.30, og der kom seks gymnasieelever fra denne skole (og ingen fra de andre gymnasier, hvor ingen flyers var blevet delt ud). Der kom omtrent 5 på grund af flyers på uni, som jeg besøgte syv gange, især i den travle time fra 12-13, hvor jeg delte flyers ud i to kantiner, i læsesal og på universitetsbiblioteket. Når jeg kom tilbage 3 dage senere, kunne jeg se, at der stadig lå en masse af vores flyers i læsesal og på bibliotek, så vi har haft en god presence på uni i 16-17 dage. Jeg syntes, folk tog bedst imod flyers, når de sad i grupper, fx i kantiner eller i studiegrupper på bib. Jeg gik hen til bordet, lagde et par flyers, sagde "Kursus i klimaaktivisme", fik øjenkontakt med en eller to, sagde "God dag", og så var jeg videre. Alle var søde og venlige.
-
-Derudover nævner 2-3, at de kom på grund af flyer i postkasse, også ok. Samlet set har vi fået en deltager til introdag per 400 uddelte flyers, fint snit. Skulle jeg gøre det hele om igen, ville jeg gøre det samme på uni, måske skære lidt ned på postkasser, besøge et par gymnasier mere og også besøge professionshøjskoler (fx lærer- og pædagogstuderende), hvor vi næsten ikke fik delt nogen ud (og hvorfra ingen kom til introdag). Vigtigt: Sæt tid af til uddeling af flyers. Man kommer nemt af med 150 flyers i timen i frokostpauser og på fyldte biblioteker, men resten af dagen er der ikke mange muligheder for at dele ud på uddannelsesinstitutioner, så man skal af sted mange gange. Jeg var ude med flyers 17 gange på 19 dage. Så skal man holde længe, skal man vælge at dele flyers ud på steder, hvor man er tryg. Jeg er selv tryg på biblioteker og på uddannelsesinstitutioner, ikke foran banegården eller Bilka.
-
-Havde der bare været 2 rebeller til fra Odense, der havde haft ressourcer til at dele mange flyers ud, kunne vi have dækket resten af byens uddannelsesinstitutioner og måske tiltrukket 10-12 flere deltagere, er min vurdering. Endelig: Vi fokuserede kun på at dele ud til unge studerende under 30, fordi vi gerne vil have flere unge med, og fordi vi tidligere har haft svært ved at fastholde unge, fordi de 4-5 mest erfarne fra XR Odense er ”voksne”. Nu er der basis for at fastholde flere unge, fordi der kom op imod 20-22 under 30 år til vores introdag.
-
-Et andet godt mobiværktøj var personlige kontakter: 5-6 personer kom til introdag på grund af dette.
-
-Derudover skrev vi ud til andre grønne organisationer i Odense. Det gav ikke rigtig noget afkast til introdagen, tror jeg, men vi har fået god kontakt til Bedsteforældrenes Klimaaktion, som sammen med Mellemfolkeligt Samvirke forventer at komme 8-10 aktivister til Befri Jorden. Det er også mange!
-
+>Mobiliseringsplan for XR Odense foråret 2023
+>
+>Hen over vinteren har vi kun været 4-5 aktivister til vores møder, og da vi gerne ville være flere fra Odense til Befri Jorden end til Vendepunktet, hvor vi var 15, lagde vi en plan.
+>
+>Vi var tre, der i januar tog til kick off meeting for Befri Jorden i København, så vi kunne dele info med andre fra Odense. Vi inviterede alle dem, vi havde mistet, eller dem, der var på pause, til en fællesmiddag midt i februar. 16 dukkede op, og nu har 12-13 af de 15, der var med til Vendepunktet, meldt sig klar til Befri Jorden! Det var et vigtigt skridt for at sikre kontinuitet i gruppen, bevare bånd og venskaber og sikre et vist antal erfarne rebeller til at hjælpe nye ind i lokalgruppen.
+>
+>Vi var to, der efter et godt online oplæg fra mobiliseringsgruppen valgte at lave et mobiliseringsteam, ”Team Eskalation”. Vi fik organiseret en introdag 2. april, bestilt lidt plakater og bestilt 5.000 flyers, som vi selv satte vores eget præg på. Vi delte dem ud, og der kom hele 36 til vores introdag, hvoraf cirka 27-28 var helt nye rebeller. Yes!
+>
+>Jeg var selv ude med 4.200 flyers, hvoraf cirka det halve blev afleveret til folk direkte på universitetet, et gymnasie, centralbiblioteket og nogle mindre steder (banegård, madmarked). Resten blev lagt i postkasser på kollegier i byen (hvor beboerne fik en flyer to gange med cirka 10 dages mellemrum). Vi kan se, at flyers og plakater (dem, der er blevet hængt op på uni) har været det bedste mobiliseringsværktøj. Efter introdag udfyldte 24 personer kontaktark, og vi kan ud fra besvarelser og ud fra, hvor mange nye vi ved, der kommer til næste møde, se, at omkring 13-14 rebeller dukkede op på grund af flyers. Bedste snit har Katedralskolen. Der delte jeg to gange med 10 dages mellemrum 150 flyers ud i spisefrikvarteret 11.30, og der kom seks gymnasieelever fra denne skole (og ingen fra de andre gymnasier, hvor ingen flyers var blevet delt ud). Der kom omtrent 5 på grund af flyers på uni, som jeg besøgte syv gange, især i den travle time fra 12-13, hvor jeg delte flyers ud i to kantiner, i læsesal og på universitetsbiblioteket. Når jeg kom tilbage 3 dage senere, kunne jeg se, at der stadig lå en masse af vores flyers i læsesal og på bibliotek, så vi har haft en god presence på uni i 16-17 dage. Jeg syntes, folk tog bedst imod flyers, når de sad i grupper, fx i kantiner eller i studiegrupper på bib. Jeg gik hen til bordet, lagde et par flyers, sagde "Kursus i klimaaktivisme", fik øjenkontakt med en eller to, sagde "God dag", og så var jeg videre. Alle var søde og venlige.
+>
+>Derudover nævner 2-3, at de kom på grund af flyer i postkasse, også ok. Samlet set har vi fået en deltager til introdag per 400 uddelte flyers, fint snit. Skulle jeg gøre det hele om igen, ville jeg gøre det samme på uni, måske skære lidt ned på postkasser, besøge et par gymnasier mere og også besøge professionshøjskoler (fx lærer- og pædagogstuderende), hvor vi næsten ikke fik delt nogen ud (og hvorfra ingen kom til introdag). Vigtigt: Sæt tid af til uddeling af flyers. Man kommer nemt af med 150 flyers i timen i frokostpauser og på fyldte biblioteker, men resten af dagen er der ikke mange muligheder for at dele ud på uddannelsesinstitutioner, så man skal af sted mange gange. Jeg var ude med flyers 17 gange på 19 dage. Så skal man holde længe, skal man vælge at dele flyers ud på steder, hvor man er tryg. Jeg er selv tryg på biblioteker og på uddannelsesinstitutioner, ikke foran banegården eller Bilka.
+>
+>Havde der bare været 2 rebeller til fra Odense, der havde haft ressourcer til at dele mange flyers ud, kunne vi have dækket resten af byens uddannelsesinstitutioner og måske tiltrukket 10-12 flere deltagere, er min vurdering. Endelig: Vi fokuserede kun på at dele ud til unge studerende under 30, fordi vi gerne vil have flere unge med, og fordi vi tidligere har haft svært ved at fastholde unge, fordi de 4-5 mest erfarne fra XR Odense er ”voksne”. Nu er der basis for at fastholde flere unge, fordi der kom op imod 20-22 under 30 år til vores introdag.
+>
+>Et andet godt mobiværktøj var personlige kontakter: 5-6 personer kom til introdag på grund af dette.
+>
+>Derudover skrev vi ud til andre grønne organisationer i Odense. Det gav ikke rigtig noget afkast til introdagen, tror jeg, men vi har fået god kontakt til Bedsteforældrenes Klimaaktion, som sammen med Mellemfolkeligt Samvirke forventer at komme 8-10 aktivister til Befri Jorden. Det er også mange!
+>
 ## Videre læsning og uddybende informationer
 
 Videre læsning

@@ -1,5 +1,5 @@
 ---
-title: "Mediearbejde til Befri Jorden"
+title: "Mediearbejde Befri Jorden"
 date: 2023-07-02T15:31:05+02:00
 draft: false
 description:
@@ -9,19 +9,19 @@ featured_image:
 author: ""
 ---
 
-# Opsamling på mediearbejde til Befri Jorden 2023  
+# Opsamling på mediearbejde til Befri Jorden 2023  <!-- omit in toc -->
 
-Det her er en opsamling på alt hvad medieholdet til Extinction Rebellions Befri Jorden protester 2023 lærte. Vi startede medieholdet i start februar, og kørte ned på lavt blus igen slut maj. Holdet bestod af 5 personer, og vi byggede selvfølgelig videre på, hvad vi havde lært i bl.a. XRUK, XRDK, uddannelse osv.  
+Det her er en opsamling på alt hvad medieholdet til Extinction Rebellions Befri Jorden protester 2023 lærte. Vi startede medieholdet i start februar, og kørte ned pålavt blus igen slut maj. Holdet bestod af 5 personer, og vi byggede selvfølgelig videre på, hvad vi havde lært i bl.a. XRUK, XRDK, uddannelse osv.  
 
 Indholdsfortegnelse:  
 
-*   **Mediestrategi**
-*   **Pressen**
-*   **Sociale medier**
-*   **Aktioner**
-*   **Backoffice**
-*   **Strukturering**
-*   **Arbejdsrutiner**
+- [Mediestrategi](#mediestrategi)
+- [Pressen](#pressen)
+- [Sociale medier](#sociale-medier)
+- [Aktioner](#aktioner)
+- [Backoffice](#backoffice)
+- [Strukturering](#strukturering)
+- [Arbejdsrutiner](#arbejdsrutiner)
 
 ## Mediestrategi  
 
