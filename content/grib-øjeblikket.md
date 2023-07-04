@@ -8,6 +8,11 @@ categories: Politisk-liv
 featured_image:
 author: ""
 ---
+- [DR Debatten på Folkemødet 2022](#dr-debatten-på-folkemødet-2022)
+- [Til aktioner](#til-aktioner)
+- [Generelt i klimakampen](#generelt-i-klimakampen)
+- [Konklusion](#konklusion)
+
 
 I min tid i klimakampen er jeg ofte kommet i helt uvante situationer, som har overrasket mig. Jeg er lidt konfliktsky af natur, og jeg har også oplevet meget planløshed i klimabevægelsen. De ting har betydet, at jeg har fået en tendens til meget målrettet at lave en plan og så holde mig til den plan. Det betyder at jeg nogle gange er gået glip af gode muligheder. Så her vil jeg komme med et argument for at gribe øjeblikket.
 
@@ -15,7 +20,7 @@ Strategien i klimabevægelsen går ofte ud på at rykke den offentlige debat, p�
 
 For udover at der kan være perioder hvor der generelt er meget større råderum til at få de helt store sejre hjem, så er der også i det daglige arbejde i klimakampen hele tiden øjeblikke der skal gribes. Det vil på en lidt mindre skala, være ting der kan betyde rigtig meget for påvirkningen af det du har gang i. 
 
-**DR Debatten på Folkemødet 2022**
+## DR Debatten på Folkemødet 2022
 
 Et godt eksempel er aktionerne med Extinction Rebellion på Folkemødet 2022. Op til Folkemødet havde vi i Extinction Rebellion snakket om, hvordan vi kunne gøre noget der gav mening. Vi blev enige om at en god måde at gøre det på, kunne være at forstyrre nogle debatter, som havde et helt håbløst udgangspunkt. Den største af dem, var den live-transmitterede DR Debatten. Vi vidste at der var nok mennesker, der ville være med, og at man godt bare kunne gå op på scenen fra publikumpladserne. Så planen og ressourcerne var der, og vi kunne bare have gjort det sådan. Men så fulgte en hel række af øjeblikke der blev grebet af min ven, så aktionen fik meget større gennemslagskraft, og var meget bedre for alle andre at være en del af.
 
@@ -29,7 +34,7 @@ Her var det tre øjeblikke der blev grebet, der gjorde påvirkningen af aktionen
 
 Det behøves dog ikke at være lige så nerverpirrende øjeblikke, som det er at afbryde en live tv-debat. Også ved andre aktioner, kan man vinde en hel del.
 
-**Til aktioner**
+## Til aktioner
 
 Til aktioner generelt er der nogle små ting der uafhængigt af selve aktionens design, kan gøre udbyttet af aktionen meget større. 
 
@@ -57,7 +62,7 @@ I back-office vil man ofte have forberedt en plan for dækningen af aktionen. De
 
 Eksempelvis havde nogle fra Scientist Rebellion i Tyskland trykket på brandalarmen til en sundhedskonference den tyske kansler Olaf Scholz var med til, for at påpege at klimakatastrofen ville betyde en nødsituation for folkesundheden. Til det sagde Olaf Scholz, at man nok hellere burde "ignorere det og fortsætte". Det blev samlet op af Letzte Generations mediehold med det samme, og medvirkede til stærkt at delegitimisere Olaf Scholz.
 
-**Generelt i klimakampen**
+## Generelt i klimakampen
 
 Udover til aktioner, er der også helt generelt nogle tidspunkter i klimakampen, hvor det betaler sig at gribeb øjeblikket. Blandt andet i samtaler.
 
@@ -71,7 +76,7 @@ Et sidste eksempel på at gribe øjeblikket er af en lidt anden karakter:
 
 Nogle mennesker fra Letzte Generation var på festival i sommeren 2022. Her havde de taget en masse underbukser med, og skrevet Letzte Generation på dem. Hver gang de stod tæt på scenen til en koncert kastede de dem derop, og af og til blev de faktisk samlet op af kunstneren og holdt op så alle kunne se dem. Genialt:)
 
-**Konklusion**
+## Konklusion
 
 Jeg er klar over at det her skriv kan læses som om at man burde være evig årvågen og altid på, så man altid er klar på at udnytte alle muligheder. På den måde kan man nærmest være sikker på at brænde sammen med stress. Der er ikke noget værre end en uendelig stor og uklar opgave. Stress hjælper os ikke, men vi bliver nødt til at gribe øjeblikkene når de kommer. Det er ofte et vilkår for at komme videre i klimakampen.
 
