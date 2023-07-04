@@ -17,6 +17,11 @@
         font-family: 'Kneewave', 'Perfect';
     }
 
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+        .post-title {
+            font-size: 2.7em;}
+        } 
+
     .post-meta {
         color: rgba(85, 85, 85, 0.52941) !important;
         .dark-theme & {
