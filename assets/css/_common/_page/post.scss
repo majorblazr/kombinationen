@@ -44,8 +44,10 @@
     }
 
     .post-content {
-        padding-top: 2rem;
-
+        padding: 2rem;
+        background-color: white;
+        filter: blur(0px);
+        box-shadow: 0px 0px 15px;
         h2,
         h3,
         h4,
