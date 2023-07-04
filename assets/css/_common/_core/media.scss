@@ -13,7 +13,7 @@
             padding: 0;
             margin: 0;
             height: 5em;
-            line-height: 5.5em;
+            line-height: 4.9em;
             background: $light-background-color;
 
             .navbar-header {
@@ -24,7 +24,7 @@
                 padding-right: 1em;
                 padding-left: 1em;
                 box-sizing: border-box;
-
+                
         
                 .menu-toggle {
                     cursor: pointer;
@@ -84,9 +84,9 @@
             .menu {
                 text-align: center;
                 background: #ffffff;
-                border-top: 2px solid #000000;
-                padding-top: 1em;
-                padding-bottom: 1em;
+                /*border-top: 2px solid #000000;*/
+                padding-top: 0.5em;
+                padding-bottom: 0.5em;
                 display: none;
                 box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1), 0px 4px 8px rgba(0, 0, 0, 0.1);
                 a {
