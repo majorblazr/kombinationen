@@ -26,14 +26,25 @@ disqusShortname = "yourdiscussshortname"
 [menu]
 
   [[menu.main]]
-    name = "Kategorier"
-    url = "/categories/"
-    weight = 3
+    name = "Politisk Liv"
+    url = "/categories/politisk-liv-/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Alt det andet"
+    url = "/categories/alt-det-andet-"
+    weight = 2
+
+  [[menu.main]]
+    name = "Opskrifter"
+    url = "/categories/Opskrifter-"
+    weight = 2
+  
 
   [[menu.main]]
     name = "Om"
     url = "/about"
-    weight = 4
+    weight = 5
 
 [params]
     since = 2023

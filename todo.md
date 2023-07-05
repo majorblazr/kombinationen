@@ -1,6 +1,7 @@
 # TODO
 
 - rette overskriftens font
+  - fjern ligaturer på tlf
 - tilføje kategorierne direkte til topbaren
 - redigér navbaren til tlf.
   - evt. fjern temaet fra tlf, og gør teksten mindre?
