@@ -3,7 +3,7 @@ title: "Boller"
 date: 2023-05-31T13:51:08+02:00
 draft: false
 description:
-categories: # This is an inline comment
+categories: Opskrifter
  -
 featured_image:
 author: ""
