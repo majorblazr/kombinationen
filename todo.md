@@ -1,5 +1,6 @@
 # TODO
 
+- skrive tech-afsnit
 - rette overskriftens font
   - fjern ligaturer på tlf
 - tilføje kategorierne direkte til topbaren
