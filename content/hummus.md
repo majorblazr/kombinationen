@@ -3,7 +3,7 @@ title: "Hummus"
 date: 2023-05-31T13:50:15+02:00
 draft: false
 description:
-categories: # kommentar
+categories: Opskrifter
  -
 featured_image:
 author: ""

@@ -3,7 +3,7 @@ title: "Plakatklister"
 date: 2023-07-01T12:39:12+02:00
 draft: false
 description:
-categories: # kommentar
+categories: Opskrifter
  -
 featured_image:
 author: ""
