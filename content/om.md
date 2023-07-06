@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "kombinationen.dk"
 date: 2023-05-30T16:45:11+02:00
 draft: false
 description:
