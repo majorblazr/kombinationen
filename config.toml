@@ -1,6 +1,6 @@
 baseURL = "https://kombinationen.dk"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "da"
+defaultContentLanguage = "da"
 title = "Kombinationen"
 theme = "KeepIt"
 
@@ -38,13 +38,13 @@ disqusShortname = "yourdiscussshortname"
   [[menu.main]]
     name = "Opskrifter"
     url = "/categories/Opskrifter-"
-    weight = 2
+    weight = 3
   
 
   [[menu.main]]
     name = "Om"
     url = "/Om"
-    weight = 5
+    weight = 4
 
 [params]
     since = 2023
@@ -176,7 +176,7 @@ clientSecret = "" # Your client secret
 
 [params.valine]
   enable = false
-  language = 'en'
+  language = 'da'
   appId = 'your appId'
   appKey = 'your appKey'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
