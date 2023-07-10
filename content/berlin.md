@@ -8,14 +8,15 @@ categories: Alt-det-andet
 featured_image:
 author: ""
 ---
-
 Jeg boede i Berlin i 4 måneder fra oktober 2022 til februar 2023. 
 
 Jeg brugte det meste af min tid på at være aktiv i Letzte Generation dernede, men også på at leve livet lidt, og udforske byen. Her er mine tips og tricks:
 
+- [Mad](#mad)
+- [Om dagen](#om-dagen)
+- [Om aftenen](#om-aftenen)
 
-
-**Mad**
+## Mad
 
 Jeg er vant til at skralde meget i København, men det kan ikke rigtig lade sig gøre i Berlin. For det første er mange steder mere aflåste end i København, og derudover bliver det rent faktisk også taget op af politiet, og så er man lige pludselig tyv.
 
@@ -26,8 +27,6 @@ Til gengæld findes der en række alternativer.
 - [Toogoodtogo](https://www.toogoodtogo.com/en-us) findes også i Berlin.
 
 - Og så er der en masse folkekøkkener over det hele i Berlin, som man kan tjekke ud på [*Stressfaktor*](https://stressfaktor.squat.net/)
-
-
 
 Man kan også altid gå ud og spise i Berlin. Der findes rigeligt med lækre og billige spisesteder. Her er nogle jeg anbefaler:
 
@@ -46,15 +45,11 @@ Derudover har jeg fået anbefalet disse:
 - Vöner
 - Konyali
 
-
-
-**Om dagen**
+## Om dagen
 
 Der er altid gang i den i Berlin. 
 
 Politisk kan man finde ud af det meste på [*Stressfaktor*](https://stressfaktor.squat.net/). Her kan man både finde demonstrationer, filmvisninger, foredrag, oplæg osv. Det er ligesom det danske [dukop.dk](https://dukop.dk)
-
-
 
 Til fritiden er der vidunderligt mange parker og gratis og relativt billige muséer og andet kunst. Her er nogle jeg anbefaler:
 
@@ -76,8 +71,6 @@ Til fritiden er der vidunderligt mange parker og gratis og relativt billige mus�
 - Schwarze Risse (anarkistisk boghandel)
 - Lichtblick Kino (hyggelig alternativ-biograf)
 
-
-
 Udover de ovennævnte steder fik jeg anbefalet:
 
 - Müßiggang (Boghandel)
@@ -91,9 +84,7 @@ Udover de ovennævnte steder fik jeg anbefalet:
 - [B-Lage](https://b-lage.de/pages/kontakt)
 - [Linienstrasse206](https://linie206.blackblogs.org/
 
-
-
-**Om aftenen**
+## Om aftenen
 
 **Cafeer:**
 
@@ -109,15 +100,11 @@ Udover de ovennævnte steder fik jeg anbefalet:
 
 **Barer:**
 
-
-
 - Schwarzes Cafe, Charlottenburg (Lidt dyr)
 - Turandot bar, Schöneberg (Hyggeligt sted)
 - Supamollie, Friedrichshain (Punk bar)
 - Lenaus Stube, Neukölln (Ægte lokalstemning)
 - Filmkunstbar Fitzcarraldo, Kreuzberg (Lidt dyr, men meget nice)
-
-
 
 Har fået anbefalet
 
@@ -151,8 +138,6 @@ Har fået anbefalet
 
 - Das Gift
 - [Badehaus](https://badehaus-berlin.com/)
-
-
 
 **Reperation:**
 

@@ -17,10 +17,17 @@ Indholdsfortegnelse:
 
 - [Mediestrategi](#mediestrategi)
 - [Pressen](#pressen)
+  - [Telefonkontakt](#telefonkontakt)
+  - [Pressemeddelelser](#pressemeddelelser)
+  - [Detaljer](#detaljer)
 - [Sociale medier](#sociale-medier)
+  - [Algoritmen](#algoritmen)
+  - [Akkreditering](#akkreditering)
+  - [Deling af andre bevægelser/organisationers opslag](#deling-af-andre-bevægelserorganisationers-opslag)
 - [Aktioner](#aktioner)
-- [Backoffice](#backoffice)
-- [Strukturering](#strukturering)
+- [Mediekontoret](#mediekontoret)
+- [Struktur](#struktur)
+  - [Procedure for pressehenvendelser](#procedure-for-pressehenvendelser)
 - [Arbejdsrutiner](#arbejdsrutiner)
 
 ## Mediestrategi
