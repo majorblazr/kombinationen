@@ -67,7 +67,7 @@ Vi kaldte hele apparatet for rugbrødsrekrutteringsapparatet, fordi der er meget
 
 Fordi vi først og fremmest ville klæde folk på til civil ulydighed og få folk ind i mobiliseringsarbejdet, lå det første fokus på at få folk til at komme til introdagene. Derefter fulgte vi den her cyklus.
 
-![Alt text](/Mobiliseringscyklus.png)
+![Mobiliseringen gik fra at reklamere for introdagene til at afholde dem, til at spørge de nye om de ville være med til at reklamere for de næste introdage.](/Mobiliseringscyklus.png)
 
 Vi mobiliserede til introdagene gennem flyers, plakater, online på de sociale medier og gennem venner. De vigtigste pointer i mobiliseringen, er princippet om at gøre opmærksom på sig selv, på en usædvanlig måde, og at gøre det meget. De færreste kommer, fordi de hører om noget en enkelt gang. Men hvis de ser noget i nyhederne, derefter får en flyer klistret på deres dør, ser en plakat på vej til arbejde, og så snakker med en ven, der også havde overvejet at tage til introdag, så begynder effekterne at komme. Derfor skal man ikke holde sig tilbage. Det kan næsten ikke blive for meget.
 

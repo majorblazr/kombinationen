@@ -63,8 +63,8 @@ disqusShortname = "yourdiscussshortname"
     avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
     socialShare = true
 
-    description = "" # site description
-    keywords = "" # site keywords
+    description = "På denne hjemmeside, vil jeg dele alt hvad jeg har af tips og tricks til livet som engageret i klimakampen i Danmark i 2023. Det er en kombination af strategiske tanker og lavpraktiske tips. En kombination af hjælp til klimakampen og hjælp til alt det andet der også foregår i ens liv." # site description
+    keywords = "Klima, Oskar Kluge, Extinction Rebellion, Medier" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
