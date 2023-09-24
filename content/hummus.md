@@ -3,7 +3,7 @@ title: "Hummus"
 date: 2023-05-31T13:50:15+02:00
 draft: false
 description:
-categories: Opskrifter
+categories: Vejledninger
  -
 featured_image:
 author: ""
@@ -13,11 +13,11 @@ author: ""
 
 - 1 dåse kikærter
 - 1 spsk tahin
-- 0,50 citron, saften herfra
+- Saften fra en halv citron eller et godt skvæt citronsaft.
 - 2 fed hvidløg
 - 1 tsk stødt spidskommen
 - 1 knivspids cayenne peber
-- 0,50 dl koldt vand + evt 1 isterning
+- 0,5 dl koldt vand + evt 1 isterning
 - 3 spsk olivenolie
 - salt og peber
 

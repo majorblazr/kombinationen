@@ -71,6 +71,12 @@ Til fritiden er der vidunderligt mange parker og gratis og relativt billige mus�
 - Schwarze Risse (anarkistisk boghandel)
 - Lichtblick Kino (hyggelig alternativ-biograf)
 
+*Reperation:*
+
+- Haus der Materialiserung
+- [Haus der Statistik](https://hausderstatistik.org/)
+- Regenbogenfabrik
+
 Udover de ovennævnte steder fik jeg anbefalet:
 
 - Müßiggang (Boghandel)
@@ -82,7 +88,7 @@ Udover de ovennævnte steder fik jeg anbefalet:
 - Daimler Contemporary
 - [IDA NOWHERE](https://www.ida-nowhere.com/about/)
 - [B-Lage](https://b-lage.de/pages/kontakt)
-- [Linienstrasse206](https://linie206.blackblogs.org/
+- [Linienstrasse206](https://linie206.blackblogs.org/)
 
 ## Om aftenen
 
@@ -138,9 +144,3 @@ Har fået anbefalet
 
 - Das Gift
 - [Badehaus](https://badehaus-berlin.com/)
-
-**Reperation:**
-
-- Haus der Materialiserung
-- [Haus der Statistik](https://hausderstatistik.org/)
-- Regenbogenfabrik

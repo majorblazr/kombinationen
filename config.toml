@@ -36,8 +36,8 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
 
   [[menu.main]]
-    name = "Opskrifter"
-    url = "/categories/Opskrifter-"
+    name = "Vejledninger"
+    url = "/categories/Vejledninger-"
     weight = 3
   
 
