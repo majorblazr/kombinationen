@@ -14,13 +14,15 @@ Her vil jeg dele en opskrift på plakatklister og en vejledning til opsætning.
 
 Til 100 plakater:
 - 5 l vand
-- 250 g mel
+- 350 g mel
 - 50 g sukker
 
 **Fremgangsmåde**
 
+- Sæt en elkedel med vand over
 - Bland mel og sukker
-- Hæld vand til lidt efter lidt og undgå store klumper
+- Hæld koldt vand til lidt efter lidt og rør rundt for at undgå store klumper
+- Hæld kogende vand til, så der er så meget vand i som der står i ingredienserne
 - Kog det op
 - Put mere mel eller vand i til konsistensen bliver relativt flydende.
 
