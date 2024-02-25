@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alt-Det-Andet - on Kombinationen</title>
+    <link>http://localhost:1313/categories/alt-det-andet--/</link>
+    <description>Recent content in Alt-Det-Andet - on Kombinationen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da</language>
+    <lastBuildDate>Thu, 06 Jul 2023 09:50:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/alt-det-andet--/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tech/</link>
+      <pubDate>Thu, 06 Jul 2023 09:50:44 +0200</pubDate>
+      <guid>http://localhost:1313/tech/</guid>
+      <description>Her er mine anbefalinger omkring tech. Jeg er ikke en ekspert, men jeg har lyttet til nogle der er kloge på det. Jeg har valgt nogle programmer og løsninger der i grove træk er open source og brugervenlige.&#xA;Grundlæggende Styresystem: Kubuntu&#xA;På min computer har jeg installeret et GNU/Linux styresystem. Det er et alternativ til Windows der er ejet af Microsoft. Der findes mange forskellige GNU/Linux styresystemer, som er mere eller mindre kompromisløse ift.</description>
+    </item>
+    <item>
+      <title>Berlin</title>
+      <link>http://localhost:1313/berlin/</link>
+      <pubDate>Tue, 30 May 2023 16:46:56 +0200</pubDate>
+      <guid>http://localhost:1313/berlin/</guid>
+      <description>Jeg boede i Berlin i 4 måneder fra oktober 2022 til februar 2023.&#xA;Jeg brugte det meste af min tid på at være aktiv i Letzte Generation dernede, men også på at leve livet lidt, og udforske byen. Her er mine tips og tricks:&#xA;Mad Om dagen Om aftenen Mad Jeg er vant til at skralde meget i København, men det kan ikke rigtig lade sig gøre i Berlin. For det første er mange steder mere aflåste end i København, og derudover bliver det rent faktisk også taget op af politiet, og så er man lige pludselig tyv.</description>
+    </item>
+    <item>
+      <title>København</title>
+      <link>http://localhost:1313/k%C3%B8benhavn/</link>
+      <pubDate>Tue, 30 May 2023 16:46:56 +0200</pubDate>
+      <guid>http://localhost:1313/k%C3%B8benhavn/</guid>
+      <description>Tips og tricks til København Udover at bruge meget tid på klimakampen de sidste tre år, har jeg også prøvet mig frem i livet i København. Jeg har sjældent haft mange penge, så jeg har gjort en dyd ud af at finde ud af hvordan man kan leve sjovt og billigt i hovedstaden. Det er fedt fordi man så ikke behøves at arbejde så meget for penge, og nogle gange føles det også lidt som om man snyder kapitalistoverherredømmet.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kombinationen</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Kombinationen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da</language>
+    <lastBuildDate>Sun, 04 Feb 2024 18:13:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vejledninger -</title>
+      <link>http://localhost:1313/categories/vejledninger--/</link>
+      <pubDate>Sun, 04 Feb 2024 18:13:28 +0100</pubDate>
+      <guid>http://localhost:1313/categories/vejledninger--/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politisk-Liv -</title>
+      <link>http://localhost:1313/categories/politisk-liv--/</link>
+      <pubDate>Sat, 27 Jan 2024 20:59:55 +0100</pubDate>
+      <guid>http://localhost:1313/categories/politisk-liv--/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alt-Det-Andet -</title>
+      <link>http://localhost:1313/categories/alt-det-andet--/</link>
+      <pubDate>Thu, 06 Jul 2023 09:50:44 +0200</pubDate>
+      <guid>http://localhost:1313/categories/alt-det-andet--/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
