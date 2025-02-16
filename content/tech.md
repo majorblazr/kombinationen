@@ -13,9 +13,9 @@ Her er mine anbefalinger omkring tech. Jeg er ikke en ekspert, men jeg har lytte
 
 ## Grundlæggende
 
-*Styresystem:* [Kubuntu](https://kubuntu.org/)
+*Styresystem:* [Fedora](https://fedoraproject.org/)
 
-- På min computer har jeg installeret et GNU/Linux styresystem. Det er et alternativ til Windows der er ejet af Microsoft. Der findes mange forskellige GNU/Linux styresystemer, som er mere eller mindre kompromisløse ift. om softwaren er 100% open source eller ej. Kubuntu er et styresystem der er relativt ligetil, og minder meget om Windows.
+- På min computer har jeg installeret et GNU/Linux styresystem. Det er et alternativ til Windows der er ejet af Microsoft. Der findes mange forskellige GNU/Linux styresystemer, som er mere eller mindre kompromisløse ift. om softwaren er 100% open source eller ej.
 
 *Beskedtjeneste:* [Signal](https://signal.org)
 
@@ -25,7 +25,7 @@ Her er mine anbefalinger omkring tech. Jeg er ikke en ekspert, men jeg har lytte
 
 *Mobilabonnement:* [GreenSpeak](https://greenspeak.dk)
 
-- Et firma der laver relativt billige abonnementer, og vidst nok har den samme timeløn allesammen, og donerer overskuddet til forskellige NGO'er som man som kunde kan stemme om
+- Et firma der laver relativt billige abonnementer, vidst nok har den samme timeløn allesammen, og donerer overskuddet til forskellige NGO'er som man som kunde kan stemme om
 
 ## Flere programmer og ressourcer
 
