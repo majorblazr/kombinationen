@@ -63,9 +63,9 @@ Til fritiden er der vidunderligt mange parker og gratis og relativt billige mus�
 
 *Kultur:*
 
-- Museer gratis første søndag i måneden
+- Mange museer er gratis første søndag i måneden
 - Comedy Cafe Berlin (gratis impro hver første søndag)
-- Künstlerhaus Bethanien (gratis Entre)
+- Künstlerhaus Bethanien (gratis entre)
 - Uni.T (Studenterteater billigt)
 - Urban Nation (gratis museum)
 - Schwarze Risse (anarkistisk boghandel)

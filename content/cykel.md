@@ -56,3 +56,6 @@ Har du et problem som du ikke ved hvordan du skal løse, så kan du slå det op 
 [flad cykel?](https://altformeget.online/~pelle/) er et sted hvor der bliver linket til forskellige cykelpodcasts og råd til at vedligeholde sin cykel.
 
 ## Hjælp til cykler
+
+En virkelig god youtubekanal til at lære om forskellige komplicerede cykeldele, som gear og baghjul.
+https://www.youtube.com/@nlz.fahrrad
