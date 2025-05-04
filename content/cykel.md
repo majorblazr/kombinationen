@@ -35,11 +35,11 @@ Hvis du skal købe flere dele og godt kan vente på, at det bliver leveret, så 
 
 **Pedalarmsaftrækker:** thansen
 
-**kædesprænger:** thansen
+**Kædesprænger:** thansen
 
 **Kæder:** Harald Nyborg
 
-**Kugler til kuglelejer:** cykelshoppen.dk/
+**Kugler til kuglelejer:** Alex cykler
 
 **Forskellige skruer:** Din lokale cykelsmed vil ofte være behjælpelig. Bauhaus har et stort sortiment af løse bolte, men ikke de cykelspecifikke.
 
@@ -49,9 +49,6 @@ Hvis du skal købe flere dele og godt kan vente på, at det bliver leveret, så 
 [Cykler til revolutionen](https://www.instagram.com/cyklertilrevolutionen/) er en instagram-side fra en der fikser cykler, sælger dem og donerer overskuddet til forskellige projekter.
 
 ## Tips til at reparere cykler
-Har du problemer med at dit dæk er for stramt og du punkterer?
-Hæld kogende vand udover før du putter det på. Det gør det mere smidigt og større. 
-
 Har du et problem som du ikke ved hvordan du skal løse, så kan du slå det op i facebook-gruppen [Gode råd om cykelreparation](https://www.facebook.com/groups/163206960525620)
 
 ## Cykelsteder
@@ -63,23 +60,23 @@ Har du et problem som du ikke ved hvordan du skal løse, så kan du slå det op 
 
 [Cyklistforbundets lokalafdeling Rødovre](https://www.cyklistforbundet.dk/frivilligportalen/afdelinger/roedovre/vaerksted) har åbent værksted hver anden mandag aften. Tjek på hjemmesiden for åbningstider.
 
-[Cyklistforbundet lokalafdeling Ballerup-Måløv-Skovlunde](https://www.cyklistforbundet.dk/frivilligportalen/afdelinger/ballerup-maaloev-skovlunde/vaerkstedet) har åbent værksted hver torsdag. Tjek på hjemmesiden for flere informationer
+[Cyklistforbundet lokalafdeling Ballerup-Måløv-Skovlunde](https://www.cyklistforbundet.dk/frivilligportalen/afdelinger/ballerup-maaloev-skovlunde/vaerkstedet) har åbent værksted hver torsdag. Tjek på hjemmesiden for flere informationer.
 
-[Cykelværksted i DUI på Østerbro](https://www.dui.dk/osterbro/cykelvaerksted/) - Har åbent dagligt, men kræver medlemskab
+[Cykelværksted i DUI på Østerbro](https://www.dui.dk/osterbro/cykelvaerksted/) har åbent dagligt, men kræver medlemskab.
 
-*Udenfor KBH:*
+[Bicycle Innovation Lab](https://bicycleinnovationlab.dk/) er et værksted på Amagerbro i to containere. Man kan være medlem og bruge det, og ellers komme til de åbne værkstedsdage cirka en gang månedligt.
+
+***Udenfor KBH:***
 
 [Cykeltutten](https://cykeltutten.dk/) er et værksted der laver cykler sammen på tværs af baggrund. Fordi det er sjovt, givende og bæredygtigt. Det ligger i Svendborg.
 
-*Online*
-
-[flad cykel?](https://altformeget.online/~pelle/) er et sted hvor der bliver linket til forskellige cykelpodcasts og råd til at vedligeholde sin cykel.
-
 ## Hjælp til at fikse cykler selv
-_Video_
+***Video***
+
 [NLZ Fahrrad](https://www.youtube.com/@nlz.fahrrad) er en virkelig god youtubekanal til at lære om forskellige komplicerede cykeldele som gear og baghjul.
 
-_Podcasts_
+***Podcasts***
+
 Singletracks Mountain Bike har to gode episoder med cykelmekanikere der fortæller om løst og fast.
 - [The modern state of bike repair med Calvin Jones](https://www.singletracks.com/mtb-gear/the-modern-state-of-bike-repair-according-to-calvin-jones/)
-- [Bike Repair goes to college](https://www.singletracks.com/community/bike-repair-goes-to-college-in-minnesota/)
+- [Bike Repair goes to college med Casey Coughlin](https://www.singletracks.com/community/bike-repair-goes-to-college-in-minnesota/)
