@@ -1,7 +1,7 @@
 ---
 title: "Warszawa"
 date: 2025-06-08T16:46:56+02:00
-draft: true
+draft: false
 description: hey
 categories: Alt-det-andet
  -
@@ -16,6 +16,7 @@ Mange af tipsne i denne tekst er fra dette [kort](https://use-it.travel/map-imag
 Warszawa er ikke lige så billigt som rygtet går på, men det er stadigvæk meget billigere end i Danmark. 
 
 Denne guide er mere en guide til at holde ferie i Warszawa end en guide til at bo i Warszawa.
+
 
 <!-- TOC -->
 
