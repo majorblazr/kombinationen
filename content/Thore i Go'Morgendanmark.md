@@ -1,9 +1,9 @@
 ---
-title: "Players of power"
+title: "Thore i Go' Morgen Danmark"
 date: 2025-02-02T15:08:08+02:00
-draft: false
+draft: true
 description:
-categories: Politisk-Liv
+categories: Current Affairs
  -
 featured_image:
 author: ""
