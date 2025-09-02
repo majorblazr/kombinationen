@@ -15,8 +15,7 @@ Udover at bruge meget tid på klimakampen de sidste tre år, har jeg også prøv
 - [At skaffe](#at-skaffe)
   - [Mad](#mad)
   - [Andet](#andet)
-- [Om dagen](#om-dagen)
-- [Om aftenen](#om-aftenen)
+- [At lave](#at-lave)
 
 ## At skaffe
 
@@ -36,7 +35,7 @@ Jeg har lavet det her [***skafferkort***](https://umap.openstreetmap.fr/da/map/h
 
 Hvis man vil skaffe møbler eller andet, kan man skaffe dem ved forskellige nærgenbrugsstationer, på dba.dk eller på facebook marketplace.
 
-## Om dagen
+## At lave
 
 Hvis man mangler noget at lave, eller i det hele taget vil have et overblik over det aktivistiske landskab i København, så kan man gå på fælleskalenderen: [dukop.dk](https://dukop.dk). Her bliver alt fra demonstrationer, folkekøkkener, arbejdsdage, møder og koncerter slået op. Tjek det ud.
 
@@ -46,7 +45,12 @@ Hvis man mangler noget at lave, eller i det hele taget vil have et overblik over
 
 - Café Mellemrummet
 
-## Om aftenen
+**Aktiviteter**
+- [Bavnehøj Friluftsbad](https://svoemkbh.kk.dk/svoemmeanlaeg/friluftsbade/bavnehoej-friluftsbad) er åbent fra juni til august, og der er gratis indgang.
+- [Davids Samling](https://www.davidmus.dk/) er en stor samling af islamsk kunst med gratis indgang.
+- [Udstillingsstedet Sydhavn Station](https://sydhavnstation.info/) er et lille udstillingssted med skiftende gratis udsstillinger af 11 de kunstnere der driver stedet.
+- [Green Kayak](https://bookings.greenkayak.org/step-1-select-a-country) er et gratis kajakudlejningskoncept, hvor man skal samle skrald mens man ror. Husk at booke i god tid!.
+- [Tårnet ved det sundhedsvidenskabelige fakultet](https://sund.ku.dk/besoeg/maersktaarnet/) kan man se udsigten ud over hele byen fra 15. etage i hverdage fra 8-17.
 
 **Barer:**
 

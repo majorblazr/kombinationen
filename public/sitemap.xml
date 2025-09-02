@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/</loc>
+      <loc>http://localhost:36279/</loc>
       
-      <lastmod>2024-02-25T11:38:30+01:00</lastmod>
+      <lastmod>2025-06-08T16:46:56+02:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -16,7 +16,91 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/bananbr%C3%B8d/</loc>
+      <loc>http://localhost:36279/categories/alt-det-andet--/</loc>
+      
+      <lastmod>2025-02-09T16:46:56+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:36279/categories/</loc>
+      
+      <lastmod>2025-02-09T16:46:56+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:36279/cykel/</loc>
+      
+      <lastmod>2025-02-09T16:46:56+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:36279/playersofpower/</loc>
+      
+      <lastmod>2025-02-02T15:08:08+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:36279/thore-i-gomorgendanmark/</loc>
+      
+      <lastmod>2025-02-02T15:08:08+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:36279/categories/politisk-liv--/</loc>
+      
+      <lastmod>2025-02-02T15:08:08+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:36279/bananbr%C3%B8d/</loc>
       
       <lastmod>2024-02-04T18:13:28+01:00</lastmod>
       
@@ -30,7 +114,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/categories/</loc>
+      <loc>http://localhost:36279/categories/vejledninger--/</loc>
       
       <lastmod>2024-02-04T18:13:28+01:00</lastmod>
       
@@ -44,21 +128,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/categories/vejledninger--/</loc>
-      
-      <lastmod>2024-02-04T18:13:28+01:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/iretten/</loc>
+      <loc>http://localhost:36279/iretten/</loc>
       
       <lastmod>2024-01-27T20:59:55+01:00</lastmod>
       
@@ -72,21 +142,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/categories/politisk-liv--/</loc>
-      
-      <lastmod>2024-01-27T20:59:55+01:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/skimask/</loc>
+      <loc>http://localhost:36279/skimask/</loc>
       
       <lastmod>2023-11-19T12:12:36+01:00</lastmod>
       
@@ -100,7 +156,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tilknyttelse/</loc>
+      <loc>http://localhost:36279/tilknyttelse/</loc>
       
       <lastmod>2023-09-24T15:54:11+02:00</lastmod>
       
@@ -114,7 +170,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/categories/alt-det-andet--/</loc>
+      <loc>http://localhost:36279/tech/</loc>
       
       <lastmod>2023-07-06T09:50:44+02:00</lastmod>
       
@@ -128,21 +184,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tech/</loc>
-      
-      <lastmod>2023-07-06T09:50:44+02:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/medier/</loc>
+      <loc>http://localhost:36279/medier/</loc>
       
       <lastmod>2023-07-02T15:31:05+02:00</lastmod>
       
@@ -156,7 +198,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/mobilisering/</loc>
+      <loc>http://localhost:36279/mobilisering/</loc>
       
       <lastmod>2023-07-02T15:08:08+02:00</lastmod>
       
@@ -170,7 +212,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/plakatklister/</loc>
+      <loc>http://localhost:36279/plakatklister/</loc>
       
       <lastmod>2023-07-01T12:39:12+02:00</lastmod>
       
@@ -184,7 +226,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/dagsrytme/</loc>
+      <loc>http://localhost:36279/dagsrytme/</loc>
       
       <lastmod>2023-06-22T16:01:55+02:00</lastmod>
       
@@ -198,7 +240,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/grib-%C3%B8jeblikket/</loc>
+      <loc>http://localhost:36279/grib-%C3%B8jeblikket/</loc>
       
       <lastmod>2023-06-20T14:45:15+02:00</lastmod>
       
@@ -212,7 +254,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/generel-utilfredshed/</loc>
+      <loc>http://localhost:36279/generel-utilfredshed/</loc>
       
       <lastmod>2023-06-17T17:07:28+02:00</lastmod>
       
@@ -226,7 +268,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/forskerkontakt/</loc>
+      <loc>http://localhost:36279/forskerkontakt/</loc>
       
       <lastmod>2023-06-14T11:10:48+02:00</lastmod>
       
@@ -240,7 +282,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/boller/</loc>
+      <loc>http://localhost:36279/boller/</loc>
       
       <lastmod>2023-05-31T13:51:08+02:00</lastmod>
       
@@ -254,7 +296,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/hummus/</loc>
+      <loc>http://localhost:36279/hummus/</loc>
       
       <lastmod>2023-05-31T13:50:15+02:00</lastmod>
       
@@ -268,7 +310,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/peanutsovs/</loc>
+      <loc>http://localhost:36279/peanutsovs/</loc>
       
       <lastmod>2023-05-31T13:49:47+02:00</lastmod>
       
@@ -282,7 +324,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/%C3%A6rtesuppe/</loc>
+      <loc>http://localhost:36279/%C3%A6rtesuppe/</loc>
       
       <lastmod>2023-05-31T13:48:06+02:00</lastmod>
       
@@ -296,7 +338,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/berlin/</loc>
+      <loc>http://localhost:36279/berlin/</loc>
       
       <lastmod>2023-05-30T16:46:56+02:00</lastmod>
       
@@ -310,7 +352,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/k%C3%B8benhavn/</loc>
+      <loc>http://localhost:36279/k%C3%B8benhavn/</loc>
       
       <lastmod>2023-05-30T16:46:56+02:00</lastmod>
       
@@ -324,7 +366,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/videreuddannelse/</loc>
+      <loc>http://localhost:36279/videreuddannelse/</loc>
       
       <lastmod>2023-05-30T16:46:56+02:00</lastmod>
       
@@ -338,7 +380,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/om/</loc>
+      <loc>http://localhost:36279/om/</loc>
       
       <lastmod>2023-05-30T16:45:11+02:00</lastmod>
       
@@ -352,7 +394,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/dahl/</loc>
+      <loc>http://localhost:36279/dahl/</loc>
       
       <lastmod>2023-05-30T16:31:40+02:00</lastmod>
       
@@ -366,7 +408,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/%C3%A6blecrumble/</loc>
+      <loc>http://localhost:36279/%C3%A6blecrumble/</loc>
       
       <lastmod>2023-03-11T16:09:11+01:00</lastmod>
       
@@ -380,7 +422,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tags/</loc>
+      <loc>http://localhost:36279/tags/</loc>
       
       
       <changefreq>monthly</changefreq>

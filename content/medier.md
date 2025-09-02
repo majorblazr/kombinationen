@@ -68,7 +68,7 @@ En ansat på Information havde først meldt ud til os, at de ikke ville dække B
 
 Anden gang fik vi at vide, at det ikke ville blive til noget, fordi de skulle ligesom lægge det sammen med en anden nyhed. Det var ikke nyhed i sig selv. Man kunne måske overveje at frame sine ting som reaktion på noget.  
 
-Vi fik også at vide fra en ansat på Politiken, der har fulgt os meget, at klimaaktionerne var blevet nedprioriteret af redaktionen, efter at han to gange havde været ude og tage billeder uden at det kom i avisen. Det fik vi bekræftet af en anden klimajournalist som sagde at når Politiken skriver ordet: *"klima"*" i en rubrik bliver den læst mindre. En skør konsekvens af det var, at Frfattere ser Grønt og Scientists Rebellion-aktionen i Landbrug og Fødevarer så endte i kultursektionen, og blev omtalt halvt som aktion og halvt som kunstværk.
+Vi fik også at vide fra en ansat på Politiken, der har fulgt os meget, at klimaaktionerne var blevet nedprioriteret af redaktionen, efter at han to gange havde været ude og tage billeder uden at det kom i avisen. Det fik vi bekræftet af en anden klimajournalist som sagde at når Politiken skriver ordet: *"klima"*" i en rubrik bliver den læst mindre. En skør konsekvens af det var, at Forfattere ser Grønt og Scientists Rebellion-aktionen i Landbrug og Fødevarer så endte i kultursektionen, og blev omtalt halvt som aktion og halvt som kunstværk.
 
 ## Sociale medier
 

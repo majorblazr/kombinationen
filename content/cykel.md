@@ -49,6 +49,14 @@ Hvis du skal købe flere dele og godt kan vente på, at det bliver leveret, så 
 [Cykler til revolutionen](https://www.instagram.com/cyklertilrevolutionen/) er en instagram-side fra en der fikser cykler, sælger dem og donerer overskuddet til forskellige projekter.
 
 ## Tips til at reparere cykler
+
+**Kompatibilitet af gearskiftere og nav med interne gear**
+Sheldon Brown har lavet et [ark](https://www.sheldonbrown.com/cribsheet-IG-cable-pull.html) til at finde ud af hvilke gearskiftere der passer med hvilke nav med interne gear.
+
+**Kompatibilitet af gearskiftere, bagskiftere og kassetter**
+Her er et [google sheet](https://docs.google.com/spreadsheets/d/16C3Rz6qmzmurSNd-L3IeMSFukkBFV6D1DRbfS59EDrE/edit?gid=1728885311#gid=1728885311) der dokumenterer hvilke gearskiftere, bagskiftere og kassetter der passer sammen.
+
+
 Har du et problem som du ikke ved hvordan du skal løse, så kan du slå det op i facebook-gruppen [Gode råd om cykelreparation](https://www.facebook.com/groups/163206960525620)
 
 ## Cykelsteder
