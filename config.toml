@@ -40,11 +40,15 @@ disqusShortname = "yourdiscussshortname"
     url = "/categories/Vejledninger-"
     weight = 3
   
+  [[menu.main]]
+    name = "Aktuelt"
+    url = "//categories/aktuelt-"
+    weight = 4
 
   [[menu.main]]
     name = "Om"
     url = "/Om"
-    weight = 4
+    weight = 5
 
 [params]
     since = 2023
