@@ -28,6 +28,8 @@ Til 100 plakater:
 
 Klisteret bliver tykkere når det bliver koldt, så lav det gerne lidt for tyndt til at starte med, og tag en flaske vand med på klisterturen, så du løbende kan tynde op.
 
+Jeg har hørt at folk blander klisteren uden at koge den op bagefter, men min erfaring siger at klister der er blevet kogt op klistrer langt bedre.
+
 Man kan selvfølgelig også bruge tapetklister fra byggemarkedet, hvis ikke man har tid til at koge en blanding.
 
 **Opsætning**
