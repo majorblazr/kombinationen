@@ -8,10 +8,17 @@ categories: Alt-det-andet
 featured_image:
 author: ""
 ---
-# Cykel
+# Cykel <!-- omit in toc -->
+
+<!-- TOC -->
+- [Steder at købe reservedele til cykler](#steder-at-købe-reservedele-til-cykler)
+- [Steder at købe cykler og reperationer](#steder-at-købe-cykler-og-reperationer)
+- [Tips til at reparere cykler](#tips-til-at-reparere-cykler)
+- [Cykelsteder](#cykelsteder)
+- [Hjælp til at fikse cykler selv](#hjælp-til-at-fikse-cykler-selv)
+<!-- /TOC -->
 
 ## Steder at købe reservedele til cykler
-Hvis du skal købe flere dele og godt kan vente på, at det bliver leveret, så kan jeg anbefale [engroskaeden.dk](https://engroskaeden.dk) til det meste. Hvis du har brug for det hurtigt eller kun har brug for en enkel del kan du købe følgende steder. Hvis du har pengene, er det selvfølgelig fedt at købe hos den lokale cykelhandler, men prisforskellen er ganske stor.
 
 **Bremsewire**: thansen
 
@@ -51,11 +58,13 @@ Hvis du skal købe flere dele og godt kan vente på, at det bliver leveret, så 
 ## Tips til at reparere cykler
 
 **Kompatibilitet af gearskiftere og nav med interne gear**
-Sheldon Brown har lavet et [ark](https://www.sheldonbrown.com/cribsheet-IG-cable-pull.html) til at finde ud af hvilke gearskiftere der passer med hvilke nav med interne gear.
+Sheldon Brown har lavet et [ark](https://www.sheldonbrown.com/cribsheet-IG-cable-pull.html), der viser hvilke gearskiftere der passer til hvilke nav med indvendige gear.
 
 **Kompatibilitet af gearskiftere, bagskiftere og kassetter**
-Her er et [google sheet](https://docs.google.com/spreadsheets/d/16C3Rz6qmzmurSNd-L3IeMSFukkBFV6D1DRbfS59EDrE/edit?gid=1728885311#gid=1728885311) der dokumenterer hvilke gearskiftere, bagskiftere og kassetter der passer sammen.
+Her er en [hjemmeside](https://2wheeltools.com/compatibility) der dokumenterer hvilke gearskiftere, bagskiftere og kassetter der passer sammen.
 
+**Hvilke dæk passer på hvilke hjul**
+Her er en [oversigt](https://cykelgear.dk/guides-og-artikler/guides/cykelhjul-cykeldaek-og-nav/hvilken-daekbredde-der-passer-til-faelgen-pa-din-cykel) over hvilken dækbredde, der passer til fælgen på dit hjul.
 
 Har du et problem som du ikke ved hvordan du skal løse, så kan du slå det op i facebook-gruppen [Gode råd om cykelreparation](https://www.facebook.com/groups/163206960525620)
 
@@ -82,6 +91,8 @@ Har du et problem som du ikke ved hvordan du skal løse, så kan du slå det op 
 ***Video***
 
 [NLZ Fahrrad](https://www.youtube.com/@nlz.fahrrad) er en virkelig god youtubekanal til at lære om forskellige komplicerede cykeldele som gear og baghjul.
+
+[Park Tool](https://www.youtube.com/@parktool/videos) har en utrolig god youtube kanal med mange videoer der kan hjælpe en videre med alle slags enkle reparationer.
 
 ***Podcasts***
 
