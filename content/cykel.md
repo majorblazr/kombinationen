@@ -8,14 +8,14 @@ categories: Alt-det-andet
 featured_image:
 author: ""
 ---
-# Cykel <!-- omit in toc -->
-
 <!-- TOC -->
+
 - [Steder at købe reservedele til cykler](#steder-at-købe-reservedele-til-cykler)
 - [Steder at købe cykler og reperationer](#steder-at-købe-cykler-og-reperationer)
 - [Tips til at reparere cykler](#tips-til-at-reparere-cykler)
 - [Cykelsteder](#cykelsteder)
 - [Hjælp til at fikse cykler selv](#hjælp-til-at-fikse-cykler-selv)
+
 <!-- /TOC -->
 
 ## Steder at købe reservedele til cykler
@@ -89,6 +89,10 @@ Har du et problem som du ikke ved hvordan du skal løse, så kan du slå det op 
 
 ## Hjælp til at fikse cykler selv
 ***Video***
+
+[RJ The Bike Guy](https://www.youtube.com/@RJTheBikeGuy) har alle mulige videoer om grundige reparationer af småting på cyklen.
+
+[Retfurb](https://www.youtube.com/@retfurb/videos) er en god kanal med især saddelrestaurering og forgaffel-service.
 
 [NLZ Fahrrad](https://www.youtube.com/@nlz.fahrrad) er en virkelig god youtubekanal til at lære om forskellige komplicerede cykeldele som gear og baghjul.
 
