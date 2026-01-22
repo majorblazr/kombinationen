@@ -1,5 +1,5 @@
 ---
-title: "Nytårsprotest"
+title: "Nytårsprotesten"
 date: 2026-01-22T08:08:08+02:00
 draft: false
 description:
@@ -8,9 +8,11 @@ categories: Aktuelt
 featured_image:
 author: ""
 ---
-Der er blevet skrevet og sagt meget om nytårsprotesten. Tre uger efter og med det hele lidt på afstand vil jeg også byde ind.
+# Nytårsprotesten
 
-Først og fremmest vil jeg prøve at sætte det hele i perspektiv. Der har været utrolig meget fokus på to sekunders ståen med et banner efter en nytårstale og et skub fra en garder. Hvem gjorde det rigtige? Samtidigt er vores samfund bogstavelig talt truet på livet af vores regering. De hælder benzin på bålet.
+Der er blevet skrevet og sagt meget om Nødbremsens nytårsprotest. Tre uger efter og med det hele lidt på afstand vil jeg også byde ind.
+
+Først og fremmest vil jeg prøve at sætte det hele i perspektiv. Der har været utrolig meget fokus på to sekunders ståen med et banner efter en nytårstale og et skub fra en garder. *Hvem gjorde det rigtige?* Samtidigt er vores samfund bogstavelig talt truet på livet af vores regering. De hælder benzin på bålet.
 
 Jeg tror på, at hvis vi om 50-100 år kigger tilbage - milliarder af mennesker er på flugt, millioner er døde - så tænker de fleste nok, at det var fjollet at bruge så meget energi på en episode med et banner på to sekunder. Vi skulle nok have gjort noget ved problemet i stedet. Det er nærmest som om, at de politikere der bruger så meget tid på skubbet, har et aktivt ønske om ikke at tale om klimasammenbruddet. Mere om det senere.
 
@@ -48,7 +50,7 @@ Vi skal passe på, at vi ikke mister kontakten til hinanden. Verden kan være al
 
 I det hele taget tror jeg ikke, at vi i Nødbremsen er så forskellige fra de fleste andre. Vi vil gerne have, at vores samfund er trygt og sikkert at bo i. Vi ønsker at ingen skal blive tvunget ud af deres hjem pga. andres rovdrift på naturen og krige om ressourcer, og vi ønsker at det skal fortsætte sådan mange generationer fremad.
 
-Der er meget at kæmpe for, og mange at kæmpe med. Hvordan det hele ender er op til os.
+Der er meget at kæmpe for, og mange at kæmpe med. Hvordan det hele ender, er op til os.
 
 *Kærlig hilsen*
 
