@@ -1,7 +1,7 @@
 ---
 title: "Nytårsprotest"
 date: 2026-01-22T15:08:08+02:00
-draft: true
+draft: false
 description:
 categories: Aktuelt
  -
