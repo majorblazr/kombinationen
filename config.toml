@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
 
   [[menu.main]]
     name = "Links"
-    url = "/Om"
+    url = "/links"
     weight = 6
 
 [params]

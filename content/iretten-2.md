@@ -1,5 +1,5 @@
 ---
-title: "Guide til at forsvares sig selv i retten"
+title: "Guide til at forsvare sig selv i retten"
 date: 2026-09-22T08:08:08+02:00
 draft: false
 description:
@@ -9,10 +9,22 @@ featured_image:
 author: ""
 ---
 
-# Guide til at forsvare sig selv i retten med klimaprotester
+# Guide til at forsvare sig selv i retten med klimaprotester <!-- omit in toc -->
 Her er en guide til at forsvare sig selv i retten ifm. klimaprotester. Guiden handler i høj grad om vejblokader, men kan også bruges i andre sammenhæng. 
 
 Teksten her er tænkt som en lavpraktisk forklaring af, hvordan jeg går til det, når jeg skal i retten. Der er mange ideologiske overvejelser der indgår i ens beslutning om, hvordan man vil føre sin retssag. Dem vil jeg ikke gå i dybden med i den her tekst. Jeg er kommet ind på nogle af dem i min [tidligere tekst](/iretten).
+
+<!-- TOC -->
+
+- [Forberedelse](#forberedelse)
+- [Til retssagen](#til-retssagen)
+  - [Afhøring af dig](#afhøring-af-dig)
+  - [Afhøring af politividner](#afhøring-af-politividner)
+  - [Procedure](#procedure)
+- [Andre tips:](#andre-tips)
+- [Afslutning](#afslutning)
+
+<!-- /TOC -->
 
 ### Forberedelse
 Når du får anklageskriftet, skal du med det samme skrive til politiet og bede om aktindsigten i sagen. I aktindsigten er der anholdelsesrapporter fra politiet, sigtelser og afhøringer af vidner, der kan blive brugbare i din sag.
@@ -71,15 +83,18 @@ Til sidst er det tid til proceduren. Proceduren er der hvor anklageren og dig hv
 Jeg vil her linke til [mit forsvar](https://drive.google.com/drive/folders/1zPJwdqJjrDEhcW0M5BYhTuATEXlZx2dw?usp=sharing) fra min seneste og største sag mod mig. Udover at have printet hele forsvaret, havde jeg også printet alle protestdagbøger og alle bilagene. Bilagene skal printes ad tre eksemplarer, så dommeren og anklageren kan få hver sit.
 
 
-#### Andre tips:
+### Andre tips:
 
 **Politiets behandling af en**
+
 Ofte vil politiet have behandlet os dårligt med smertegreb og mere. Det kan man sagtens nævne i ens forklaring, for det er en del af det der er sket. Retten vil dog ikke tage stilling til det fordi det ikke er det retssagen handler om. Hvis man vil handle på politiets dårlige behandling af en, skal man selv lægge sag an. Hvis der kører en sag mod en betjent der er i retten som vidne, må de eller skal de helt afholde sig fra at sige noget om det sagen vedrører altså smertegreb eller lignende. 
 
 **Samlesager**
+
 En samlesag køres som en masse sager lige efter hinanden. Det vil sige man tager alle forklaringerne i træk, så tager man alle vidneafhøringerne i træk og så tager man en samlet procedure for alle forholdene. Det er vigtigt at man husker på at gå i detaljen ved alle sager. Man kan hurtigt tænke at man har sagt noget før, men det bliver set som forskellige sager, så man skal bare gentage sig selv. Det samme sker, når man spørger politividnerne. Man skal bare gentage sine spørgsmål til dem alle sammen, hvis de vidner for forskellige sager.
 
 **Modereret kumulation**
+
 Når man har en samlesag med påstand om bødestraf, bliver bøderne ikke bare lagt sammen. De bliver kumuleret moderat efter følgende retningslinje.
 - Færdselslovsovertrædelser kumulerer absolut
 - Ved lav indkomst får man halveret bøden. Lav indkomst er fra kontanthjælpsniveau og nedefter.
@@ -90,5 +105,5 @@ Når man har en samlesag med påstand om bødestraf, bliver bøderne ikke bare l
 Jeg er i tvivl om, hvordan de interagerer med hinanden og hvilken rækkefølge regnestykkerne skal udføres i. Jeg havde en sag, som med absolut kumulation ville give 54.000 DKK, men anklageren endte med at gå efter 17.000 på grund af ovenstående retningslinjer. Dommeren kan i sidste ende vælge at ignorere retningslinjerne og basere sin dom på noget andet.
 
 
-#### Afslutning
+### Afslutning
 Den her guide kan ikke stå alene. Den er ment som en hjælp til, hvis du selv vil forberede dig. Jeg anbefaler klart at snakke med en advokat eller en forening som Ulydig Retshjælp før, da der altid vil være nogle specifikke omstændigheder ved din sag, der kræver specifik forberedelse. Derudover er der som sagt en masse ideologi involveret i at vælge en retsstrategi, og jeg har her givet mit bud på hvad jeg synes giver mening. 
