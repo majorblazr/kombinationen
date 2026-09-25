@@ -50,6 +50,11 @@ disqusShortname = "yourdiscussshortname"
     url = "/Om"
     weight = 5
 
+  [[menu.main]]
+    name = "Links"
+    url = "/Om"
+    weight = 6
+
 [params]
     since = 2023
     author = "Oskar Kluge"               # Author's name

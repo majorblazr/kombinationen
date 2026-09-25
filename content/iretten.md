@@ -1,5 +1,5 @@
 ---
-title: "I retten (1/2)"
+title: "Beretninger fra to retssager"
 date: 2024-01-27T20:59:55+01:00
 draft: false
 description:
@@ -134,5 +134,3 @@ Så der er ikke noget generelt svar, men jeg vil gerne tale for ikke kun at se r
 I retssalene kan det være en meget styrkende oplevelse at fortælle sandheden og ikke lade sig kue, og udadtil kan det være et øjeblik med høj bevågenhed og mulighed for rekruttering til og sympati for kampagnen. 
 
 En retssag kan føles som et øjeblik med stort pres på ift. ikke at ødelægge ens fremtid, men for de fleste af os vil jeg gætte på, at vi ikke kigger tilbage om 30 år og ærgrer os over, at vi var så politiske i vores retssager.
-
-I næste tekst vil jeg skrive om, hvordan vi skal bruge retssager udadtil.
