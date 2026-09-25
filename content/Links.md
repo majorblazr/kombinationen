@@ -1,9 +1,9 @@
 ---
 title: "Links"
-date: 2026-09-25T16:46:56+02:00
+date: 2026-09-24T16:46:56+02:00
 draft: false
 description:
-categories: Webring
+categories:
  -
 featured_image:
 author: ""
